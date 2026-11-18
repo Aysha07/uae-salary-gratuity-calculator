@@ -1,0 +1,16 @@
+
+==================================================
+ UAE EMPLOYEE PAYSLIP & GRATUITY 
+Generated Date : 2026-11-18 14:43:26
+Employee Name : aysha (ID: DXB-107)
+--------------------------------------------------
+Basic Salary : 4,000.00 AED
+Housing Allowance : 1,500.00 AED
+Transport Allowance : 500.00 AED
+Overtime Pay (1.25x): 208.33 AED
+--------------------------------------------------
+TOTAL MONTHLY PAY : 6,208.33 AED
+--------------------------------------------------
+Service Completed : 3.5 Years
+End-of-Service Gratuity (UAE Law): 9,800.00 AED
+==================================================
